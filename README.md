@@ -10,3 +10,6 @@ B. select "yes" or "no" for the two options:
 If you type fit manually = "yes" you have to provide a fitting Urbach energy, else follow the instructions in the plot.
 
 C. have fun
+
+
+online version here:
